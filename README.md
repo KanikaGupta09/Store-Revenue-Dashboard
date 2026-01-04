@@ -121,7 +121,7 @@ The dashboard supports:
 
 ---
 
-## 📁 Repository Structure (Suggested)
+## 📁 Repository Structure 
 
 ```
 ├── data/
