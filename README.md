@@ -1,6 +1,7 @@
 # 🏨 Hotel Revenue & Guest Seasonality Analysis
 
 **SQL + Power BI | Revenue Analytics | Business Intelligence**
+https://app.powerbi.com/view?r=eyJrIjoiNzhmMDBhNzItMmZlZC00YzFiLTlmMzQtMWY0Nzc0YzhkOGJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ---
 
