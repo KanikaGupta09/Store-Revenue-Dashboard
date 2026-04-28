@@ -1,13 +1,12 @@
 # 🏨 Hotel Revenue & Guest Seasonality Analysis
 
 **SQL + Power BI | Revenue Analytics | Business Intelligence**
-https://app.powerbi.com/view?r=eyJrIjoiNzhmMDBhNzItMmZlZC00YzFiLTlmMzQtMWY0Nzc0YzhkOGJjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes a **hotel revenue dataset spanning three years (2018–2020)** to uncover patterns in **revenue performance, guest behavior, and seasonal demand**. Using **SQL Server** and **Power BI**, the project builds an end-to-end analytics pipeline—from raw CSV ingestion to interactive dashboards—designed to support **data-driven operational and staffing decisions**.
+This project analyzes a **hotel revenue dataset** to uncover patterns in **revenue performance, guest behavior, and seasonal demand**. Using **SQL Server** and **Power BI**, the project builds an end-to-end analytics pipeline—from raw CSV ingestion to interactive dashboards—designed to support **data-driven operational and staffing decisions**.
 
 ---
 
@@ -129,10 +128,6 @@ The dashboard supports:
 │   └── raw_csv/
 ├── sql/
 │   └── revenue_analysis.sql
-├── powerbi/
-│   └── hotel_revenue_dashboard.pbix
-├── presentation/
-│   └── insights_and_recommendations.pptx
 ├── README.md
 ```
 
